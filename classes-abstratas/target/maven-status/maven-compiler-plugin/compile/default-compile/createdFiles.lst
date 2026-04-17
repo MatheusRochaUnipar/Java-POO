@@ -1,0 +1,5 @@
+br\unipar\classes\abstratas\domain\Gato.class
+br\unipar\classes\abstratas\ClassesAbstratas.class
+br\unipar\classes\abstratas\domain\Animal.class
+br\unipar\classes\abstratas\domain\Ave.class
+br\unipar\classes\abstratas\domain\Mamifero.class
