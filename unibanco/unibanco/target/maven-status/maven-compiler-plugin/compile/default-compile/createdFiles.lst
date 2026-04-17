@@ -1,0 +1,5 @@
+unibanco\models\Agencia.class
+unibanco\models\Endereco.class
+br\unipar\unibanco\Unibanco.class
+unibanco\models\Banco.class
+unibanco\models\Correntista.class
